@@ -1,0 +1,1 @@
+PowerShell  -NoProfile -ExecutionPolicy Bypass -windowstyle hidden -Command "& '%~dp0\dis.ps1'"
